@@ -1,0 +1,3 @@
+Please download all .parquet files from the PROSPECT dataset into this folder:
+
+https://zenodo.org/record/6602020

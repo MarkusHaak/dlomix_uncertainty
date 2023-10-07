@@ -1,0 +1,8 @@
+dlomix
+tensorflow
+pandas
+numpy
+tqdm
+scikit-learn
+matplotlib
+scipy
